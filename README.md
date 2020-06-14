@@ -21,6 +21,9 @@ imgTermica= cv2.imread("imgTest/m1_.jpg")# imagem cam 2 Termograma
 # Equipe de desenvolvimento
 
 GEISEL SAMUEL GONÇALVES
+
 IGOR FERNANDES OLIVEIRA
+
 MARCOS PAULO REIS DO CARMO
+
 RAFAEL RAYRON GONÇALVES
