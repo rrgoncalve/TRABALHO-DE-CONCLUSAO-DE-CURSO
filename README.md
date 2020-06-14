@@ -7,4 +7,4 @@ Desenvolver um protótipo de um agente capaz de auxiliar na busca e na identific
 # Orientação
 Na pasta "\object_detection_and_status\classifier" é necessario descompactar o classificador
 
-<img src="link">
+<img src="https://raw.githubusercontent.com/rrgoncalve/TRABALHO-DE-CONCLUS-O-DE-CURSO/master/RNA.JPG">
