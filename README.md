@@ -12,6 +12,7 @@ Na pasta "\object_detection_and_status\classifier" é necessario descompactar o 
 Na classe "object_detection_and_status" nas linhas abaixo é passado o caminho da imagem da visao digital e termografica assim simulando uma camera em funcionamento.
 
 img = cv2.imread("imgTest/m1.jpg") # imagem cam 1 Digital
+
 imgTermica= cv2.imread("imgTest/m1_.jpg")# imagem cam 2 Termograma
 
 <img src="https://raw.githubusercontent.com/rrgoncalve/TRABALHO-DE-CONCLUS-O-DE-CURSO/master/RNA.JPG">
